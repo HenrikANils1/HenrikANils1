@@ -1,8 +1,9 @@
-- 👋 Hi! I'm @HenrikANils1, just got on Git. 
-- 🏗️ I'm studying constructional engineering, at NTNU Trondheim in Norway.
-- 📈 ... want to expand my tech- and coding knowledge, where do I even start?
-- 💞️ Interests... huh? I fancy good litterature and beer :)
-- 📫 Reach me on Linkedin.com/in/henrikanilsen
+👋 Hi, my name is Henrik. Just got on Github.
+
+🏗️ I'm studying constructional engineering at NTNU in Trondheim, Norway.
+... want to expand my tech- and coding knowledge, but where do I even start?
+
+Mostly interested in constructional engineering, but there's a world beyong python aswell (or at least i think so?)
 
 <!---
 HenrikANils1/HenrikANils1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
